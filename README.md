@@ -1,10 +1,4 @@
+- # sobre mim
 - 👋 Hi, I’m @rebekacorrea19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rebekacorrea19/rebekacorrea19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 eu estou interessado a progamar novas linguagens
+- 🌱 e eu estou aprendendo a promgamar recentemente a linguagem de javascript e scrathc
